@@ -21,7 +21,7 @@ const YouTubeVideo = ({ videoId }) => {
 };
 
 const VideoInput = () => {
-    const [videoUrl, setVideoUrl] = useState('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+    const [videoUrl, setVideoUrl] = useState('https://www.youtube.com/watch?v=KgH1rXz7mA0');
     const [videoId, setVideoId] = useState('');
     const [error, setError] = useState('');
 

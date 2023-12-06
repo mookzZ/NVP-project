@@ -73,6 +73,13 @@ input, button {
 .footer {
   display: flex;
   flex-direction: column;
+  gap: 10px;
+}
+.footer a {
+  padding: 5px;
+  background-color: rgba(0, 128, 0, 0.24);
+  border-radius: 5px;
+  border: 1px solid green;
 }
 h1 {
   margin: 0;

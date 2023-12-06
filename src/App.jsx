@@ -82,6 +82,7 @@ const VideoInput = () => {
             <YouTubeVideo videoId={videoId} />
             <div className="footer">
                 <a href="https://t.me/mookZZZ" target={"_blank"}>by acided</a>
+                <a href="https://github.com/mookzZ/NVP-project" target={"_blank"}>github repository</a>
             </div>
         </div>
     );
